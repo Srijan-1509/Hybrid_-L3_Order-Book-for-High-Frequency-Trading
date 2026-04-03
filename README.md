@@ -1,1 +1,1 @@
-# Hybrid_-L3_Order-Book-for-High-Frequency-Trading
+# L3_Order-Book-for-High-Frequency-Trading
